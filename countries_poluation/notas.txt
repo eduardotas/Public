@@ -1,4 +1,0 @@
--> Analise percentual por pais.
--> Paises com maior taxa de crescimeento de poluicao.
--> Paises com menor taxa de crescimeento de poluicao.
--> Paises com maior taxa de crescimeento de despoluicao.
